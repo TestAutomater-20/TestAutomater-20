@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TestAutomater-20
-- 
+
 ### 🚀 Automation Tester | QA Enthusiast
 
-I specialize in testing and am upskilling to automation testing using Selenium webdriver, python and pytest. Currently, I'm learning about CI/CD pipeline and working on automation of web applications.
+I specialize in testing and upskilling to automation testing using Selenium webdriver, python and pytest. Currently, I'm learning about CI/CD pipeline and working on automation of web applications.
 
 ---
 
